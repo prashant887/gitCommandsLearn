@@ -5,3 +5,5 @@ git add .
 git commit
 git branch devbranch
 git checkout devbranch
+
+git merge master 
