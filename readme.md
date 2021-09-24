@@ -24,3 +24,5 @@ git checkout devbranch and git merge master
 modfify file 
 
 git push origin devbranch
+
+Created PR and merged devbranch to master branch
