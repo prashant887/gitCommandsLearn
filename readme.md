@@ -40,4 +40,4 @@ deleted new files created , git commit and push
 
 checkout to devbranch 
 
-
+git merge master
