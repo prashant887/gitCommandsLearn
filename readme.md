@@ -26,3 +26,5 @@ modfify file
 git push origin devbranch
 
 Created PR and merged devbranch to master branch
+
+git pull origin master 
