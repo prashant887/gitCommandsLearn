@@ -28,3 +28,10 @@ git push origin devbranch
 Created PR and merged devbranch to master branch
 
 git pull origin master 
+
+new file created in devbranch 
+commit and psuh to dev branch 
+
+create PR and merge to master 
+
+checkout to master and pull remote
