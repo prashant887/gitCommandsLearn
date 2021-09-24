@@ -41,3 +41,7 @@ deleted new files created , git commit and push
 checkout to devbranch 
 
 git merge master
+
+git diff master 
+
+git diff devbranch origin/devbranch 
